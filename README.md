@@ -24,3 +24,12 @@ source venv/bin/activate  # Linux/Mac
 
 pip install -r requirements.txt
 python server.py
+Servidor sobe em http://localhost:5000.
+
+🧪 Testar
+bash
+curl http://localhost:5000/health
+curl http://localhost:5000/api/home
+curl "http://localhost:5000/api/shorts?page=1&pageSize=24"
+curl "http://localhost:5000/api/search?q=amor"
+curl http://localhost:5000/api/categories
