@@ -7,7 +7,7 @@
 # Configurações padrão (edite antes de rodar)
 DOMAIN=cine.venusdev.xyz
 EMAIL=seu-email@exemplo.com
-GITHUB_REPO=https://github.com/SEU_USUARIO/reelshort-api.git
+GITHUB_REPO=https://github.com/copa-bhs/venuscine-shots.git
 USER_NAME=reelshort
 APP_DIR=/var/www/reelshort
 PORT=5000
