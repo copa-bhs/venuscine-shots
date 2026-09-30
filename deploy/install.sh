@@ -6,7 +6,11 @@
 
 # Configurações padrão (edite antes de rodar)
 DOMAIN=cine.venusdev.xyz
+<<<<<<< HEAD
 EMAIL=seu-email@exemplo.com
+=======
+EMAIL=leprosoff0@gmail.com
+>>>>>>> a0a56f4579ed0435a3685f22fca48b272adaccbb
 GITHUB_REPO=https://github.com/copa-bhs/venuscine-shots.git
 USER_NAME=reelshort
 APP_DIR=/var/www/reelshort
